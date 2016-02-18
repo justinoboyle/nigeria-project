@@ -25,7 +25,6 @@ app.get('/partial/*', function(request, response) {
               files.forEach(function(f) {
                   respArr.push(f);
               });
-              response.status(404);
               response.send(JSON.stringify(respArr));
               return;
           });
@@ -56,7 +55,6 @@ app.get('/static/*', function(request, response) {
               files.forEach(function(f) {
                   respArr.push(f);
               });
-              response.status(404);
               response.send(JSON.stringify(respArr));
               return;
           });
