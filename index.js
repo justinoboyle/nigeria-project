@@ -64,7 +64,11 @@ app.get('/static/*', function(request, response) {
     });
 });
 
-app.get("/*", function(request, response) {
+app.get("*", function(request, response) {
+  response.sendFile(__dirname + "/index.html");
+  return;
+});
+app.get("/", function(request, response) {
   response.sendFile(__dirname + "/index.html");
   return;
 });
