@@ -2,6 +2,30 @@ var project = "Nigeria Project";
 var baseURL = "https://nigeria.justinoboyle.com";
 var pagesBase = "/partial/";
 var articleDrop = $('#articleDrop');
+var currentPage = "";
+var firstload = true;
+
+function updateCurrentPage(newLink) {
+  currentPage = newLink.toLowerCase();
+  try {
+    document.title = document.getElementById("link_" + newLink).innerHTML + " - Nigeria";
+  }catch(e) {
+    document.title = toTitleCase(newLink) + " - Nigeria";
+  }
+  if(!firstload) {
+    $("#articleDrop").fadeOut();
+    history.pushState(0, 0, "/" + currentPage);
+  } else
+  $("#articleDrop").hide();
+  setTimeout(function() {
+    getAndAppendPart((currentPage == "" ? "home" : currentPage) + ".md" );
+    firstload = false;
+    $("#articleDrop").fadeIn();
+  }, firstload ? 0 : 400);
+
+}
+
+updateCurrentPage(window.location.pathname.substring(1));
 
 var hashTagActive = "";
 $(".scroll").click(function (event) {
@@ -28,25 +52,24 @@ function grabAllPages(callback) {
 
 }
 
-grabAllPages(function(d) {
-    for (var part in d) {
-      getAndAppendPart(d[part]);
-    }
-});
-
 function getAndAppendPart(part) {
   getPage(part, function(e) {
-      articleDrop.html(articleDrop.html() + '<div id="pagehead-' + part + '">' + prepareString(e) + "</div>");
+      articleDrop.html('<div id="pagehead-' + part + '">' + prepareString(e) + "</div>");
+      $.material.init();
   });
 }
 
-function setupNavbar() {
-  return $("h1");
+
+function toTitleCase(str)
+{
+    return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 }
 
-
 function prepareString(md) {
-    return markdown.toHTML(md);
+  var converter = new showdown.Converter(),
+  text      = md,
+  html      = converter.makeHtml(text);
+  return html;
 }
 
 function httpGet(theUrl, callback) {

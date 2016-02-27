@@ -2,10 +2,10 @@
 
 ## Lagos
 
-> [It's] Africa's Big Apple
-
-– [Fortune.com](fortune.com/2014/06/12/lagos-nigeria-big-apple/)
-
+<blockquote>
+  <p>[Lagos is] Africa's Big Apple</p>
+  <footer><a href="//fortune.com/2014/06/12/lagos-nigeria-big-apple/">Fortune.com</a></footer>
+</blockquote>
 
 ### [Things to do](http://www.tripadvisor.com/Attractions-g304026-Activities-Lagos_Lagos_State.html)
 - Nike Art Gallery
