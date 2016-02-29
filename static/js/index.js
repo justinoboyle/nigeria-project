@@ -5,7 +5,7 @@ var articleDrop = $('#articleDrop');
 var currentPage = "";
 var firstload = true;
 
-Mousetrap.bind('k a h o o t', function() { window.location.href="google.com" });
+Mousetrap.bind('k a h o o t', function() { window.location.href="https://play.kahoot.it/#/k/99196c23-b84c-4d26-9f1c-84c2482f7bcd" });
 
 setupNav(function() {
   updateCurrentPage(window.location.pathname.substring(1));
