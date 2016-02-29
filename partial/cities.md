@@ -26,5 +26,9 @@ Lagos is the most populous city in Nigeria. It is a megacity separated by water 
   src="https://www.google.com/maps/embed/v1/search?key=AIzaSyC8EzlfU1nbk346uRMNKKvsIve-1cPFPWk&q=Lagos,+Nigeria" allowfullscreen>
 </iframe>
 <img src="/static/cities/lagos.jpg" style="width:75%;height:75%"/>
+<div class="caption">A bird's-eye view of Lagos.</div>
+## Citation
 
-## TODO finish this section
+Travelstart Blog. "12 Most Loved Cities in Nigeria." Travelstart Blog. Travelstart Online Travel Operations Pty LTD, n.d. Web. <http://www.travelstart.com.ng/blog/most-loved-cities-nigeria/>.
+
+"Lagos, Nigeria: Africa's Big Apple." Fortune Lagos Nigeria Africas Big Apple Comments. N.p., 12 June 2014. Web. 28 Feb. 2016.

@@ -55,6 +55,4 @@ Pounded yam is incomplete without Egusi soup – melon soup. Pounded yam is made
 
 Dennis, Matthew, ed. "Nigeria: Cuisine." World Geography and Culture Online. Facts On File, Inc. Web. 17 Feb. 2016. <http://www.fofweb.com/activelink2.asp?ItemID=WE39&Culture.aspx&iPin= M0019833&SingleRecord=True>.
 
-TODO: http://www.bellanaija.com/wp-content/uploads/2014/10/unnamed-31.jpg
-http://2.bp.blogspot.com/-trl0eey64uA/VWhiFm6Z1mI/AAAAAAAAIPI/5qelLDCqeCM/s1600/egusi%2Bsoup%2Brecipe.JPG
-http://www.travelstart.com.ng/blog/22-foods-nigerians-miss-most-while-living-abroad/
+"12 Foods Nigerians Who Live Abroad Cherish | Zikoko!" Zikoko 12 Foods Nigerians Who Live Abroad Cherish Comments. N.p., 13 Jan. 2016. Web. 28 Feb. 2016. <http://zikoko.com/list/12-foods-nigerians-who-dont-live-in-nigeria-need-to-survive/>.

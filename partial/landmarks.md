@@ -37,6 +37,4 @@ Many of Nigeria's prominent landmarks are man made. A particularly notable landm
 
 # Citation
 
-https://upload.wikimedia.org/wikipedia/commons/0/06/Zuma_Rock_-_2.jpg
-http://nigeriaheritage.org/wp-content/uploads/2014/12/Yankari-National-Park-bauchi-citygist-net.jpg
-http://www.filepicker.io/api/file/nzoqHkQISOy5r8prZb6U
+"Nigeria Sightseeing - JetLife Nigeria." JetLife Nigeria. N.p., 28 Aug. 2012. Web. 28 Feb. 2016. <http://www.jetlifenigeria.com/2012/08/nigeria-sightseeing/>.

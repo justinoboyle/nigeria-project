@@ -10,5 +10,7 @@ Like everything else about Nigeria, the climate has wide variations that is rela
 <div class="caption">Lagos at night. <a href="http://www.naijametro.com/wpress/wp-content/uploads/2012/03/lagos_sunset_Nite_Nadim.jpg">Original Source</a></div>
 
 ## Citation
+
 Kurian, George Thomas, ed. "Nigeria: Weather and Climate." World Geography and Culture Online. Facts On File, Inc. Web. 17 Feb. 2016. <http://www.fofweb.com/activelink2.asp?ItemID=WE39&Weather.aspx&iPin=M0019833&SingleRecord=True>.
-http://www.naijametro.com/wpress/wp-content/uploads/2012/03/lagos_sunset_Nite_Nadim.jpg
+
+"Discover Nigeria." NaijaMetro. N.p., n.d. Web. 28 Feb. 2016.

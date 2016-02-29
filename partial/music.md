@@ -28,6 +28,7 @@ Sonny Okosun and Sade
       <img src="/static/music/king-sunny-ade.jpg" alt="King Sunny Adé">
       <div class="caption">
         <h3>King Sunny Adé</h3>
+        <a href="http://northdallasgazette.com/wordpress/wp-content/uploads/2015/06/king-sunny-ade.jpg">Original Source</a>
         <p><a href="https://www.google.com/search?q=King+Sunny+Ad%C3%A9+(Musician)" class="btn btn-primary" role="button">Learn More</a></p>
       </div>
     </div>
@@ -38,6 +39,7 @@ Sonny Okosun and Sade
       <img src="/static/music/sonny-okosun.jpg" alt="Sonny Okosun">
       <div class="caption">
         <h3>Sonny Okosun</h3>
+        <a href="http://cdn.discogs.com/sPJzwO1zK5Vw3b8ntR7NfSTL1xo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb()/discogs-images/A-797376-1221321612.jpeg.jpg">Original Source</a>
         <p><a href="https://www.google.com/search?q=Sonny+Okosun+(musician)" class="btn btn-primary" role="button">Learn More</a></p>
       </div>
     </div>
@@ -48,6 +50,7 @@ Sonny Okosun and Sade
       <img src="/static/music/sade.jpg" alt="Sade Adu">
       <div class="caption">
         <h3>Sade Adu</h3>
+        <a href="http://cdn.lifeandtimes.com/uploads/2012/06/Sade_11.jpg">Original Source</a>
         <p><a href="https://www.google.com/search?q=Sade+(singer)" class="btn btn-primary" role="button">Learn More</a></p>
       </div>
     </div>
@@ -58,7 +61,3 @@ Sonny Okosun and Sade
 
 ## Citation
 Dennis, Matthew, ed. "Nigeria: Culture and Lifestyle." World Geography and Culture Online. Facts On File, Inc. Web. 17 Feb. 2016. <http://www.fofweb.com/activelink2.asp?ItemID=WE39&Culture.aspx&iPin= M0019833&SingleRecord=True>.
-
-http://cdn.lifeandtimes.com/uploads/2012/06/Sade_11.jpg
-http://northdallasgazette.com/wordpress/wp-content/uploads/2015/06/king-sunny-ade.jpg
-http://cdn.discogs.com/sPJzwO1zK5Vw3b8ntR7NfSTL1xo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb()/discogs-images/A-797376-1221321612.jpeg.jpg

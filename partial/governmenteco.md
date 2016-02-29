@@ -20,5 +20,5 @@ Economically, the major challenge for Nigeria is the competition between ethnic 
 
 ## Citation
 Atsenuwa, Ayodele. "Nigeria: Government Overview." World Geography and Culture Online. Facts On File, Inc. Web. 18 Feb. 2016. <http://www.fofweb.com/activelink2.asp?ItemID=WE39&Government.aspx&iPin= M0019833&SingleRecord=True>.
-https://upload.wikimedia.org/wikipedia/commons/4/44/Muhammadu_Buhari_-_Chatham_House.jpg
-http://howng.com/wp-content/uploads/2014/12/nigerian-flag-waving.png
+
+"How (NG) Nigeria - A Knowledgebase for Nigeria- Nigerian Trends Online." How Nigeria. N.p., n.d. Web. 28 Feb. 2016. <http://howng.com/>.
