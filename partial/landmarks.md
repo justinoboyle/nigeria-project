@@ -30,7 +30,10 @@ Zuma Rock is made out of Ingeous rock, and is sometimes referred to as the *Gate
 
 <hr />
 # Abuja National Mosque
-Many of Nigeria's prominent landmarks are man made. A particularly notable landmark is the Natural Mosque at Abuja. It was built in the 1980s and its glistening golden dome with minarets dominate the skyline in Nigeria's capital city.
+Many of Nigeria's prominent landmarks are man made. A particularly notable landmark is the National Mosque at Abuja. It was built in the 1980s and its glistening golden dome with minarets dominate the skyline in Nigeria's capital city.
+
+<img src="/static/landmarks/mosque.jpg" onclick="window.open('https://upload.wikimedia.org/wikipedia/commons/d/d4/AbujaNationalMosque.jpg')" style="width:75%;height:75%;" />
+<div class="caption">The beautiful Abuja National Mosque. <a href="https://upload.wikimedia.org/wikipedia/commons/d/d4/AbujaNationalMosque.jpg">Original Source</a></div>
 
 # Citation
 
