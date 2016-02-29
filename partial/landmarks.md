@@ -1,6 +1,6 @@
 # Landmarks
 
-Nigeria is known for its natural landmarks and wildlife reserves. Safari destinations such as Cross River National Park and Yankari National Park showcase waterfalls, dense rainforests, savannah and more primate habitats.
+Nigeria is known for its natural landmarks and wildlife reserves. Safari destinations such as Cross River National Park and Yankari National Park showcase waterfalls, dense rainforests, savannah and rare primate habitats.
 
 <div class="alert alert-warning" role="alert">
   <strong>Travel alert!</strong> The U.S. Mission in Nigeria has received information that groups associated with terrorism may be planning to mount attacks against hotels in Nigeria that are frequented by westerners. <br />
