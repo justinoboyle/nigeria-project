@@ -4,9 +4,9 @@ There is a lot of lingual diversity in Nigeria. While English serves as official
 
 ## Native tongue map
 <hr />
-<img src="/static/language/map.jpg" style="width:50%;height=50%"></img>
+<img src="/static/language/map.jpg" onclick="window.open('/static/language/map.jpg')" style="width:50%;height=50%"></img>
 
-<div class="caption">This map shows the divide of native tongues throughout Nigeria.</div>
+<div class="caption">This map, showing the religious and ethnic divisions of Nigeria, can also represent the division of native tongues spoken in those areas.</div>
 
 
 ## Citation

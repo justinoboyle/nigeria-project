@@ -1,6 +1,6 @@
 # Geography
 
-Nigeria is mountainous in the southeast, while sothern lowlands merge into cetral hills and plateaus, with plains in the north. Natural hazards can include periodic droughts and flooding. Nigeria's geography creates four natural divisious of vegetations, from south to north: mangrove swamps on the coast, tropical rainforests on the plains and scattered hills, open woodlands and savannah on the high central plateau, and semi-desert in the extreme north. Rocky dome outcrops scatter among sandy plains in the semi-desert area known as High Plains of Hausaland. An example of such an outcropping is the very recognizable sight of [Zuma Rock](landmarks#ZumaRock).
+Nigeria is mountainous in the southeast, while Southern lowlands merge into central hills and plateaus, with plains in the north. Natural hazards can include periodic droughts and flooding. Nigeria's geography creates four natural divisions of vegetations, from south to north: mangrove swamps on the coast, tropical rainforests on the plains and scattered hills, open woodlands and savannah on the high central plateau, and semi-desert in the extreme north. Rocky dome outcrops scatter among sandy plains in the semi-desert area known as High Plains of Hausaland. An example of such an outcropping is the very recognizable sight of [Zuma Rock](landmarks#ZumaRock).
 
 Natural resources include:
 - Natural Gas

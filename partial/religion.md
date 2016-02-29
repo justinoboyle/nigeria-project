@@ -1,6 +1,6 @@
 # Religion
 
-Nigerian religious practices are divided on geographical and ethnic lines. The south-east region is mostly Christian, while the north is almost entirely Muslim. The south-west have both Christians and Muslims in unison, but African traditional religions are practiced as well. Nigerians have freedom of religion according to their constitution; there is no requirement of separation of religion and state. Over half of the nation practices Islam, most of which are Sunni. The Sufi orders, a flavor of the Muslim faith, made Islamic faith even more popular by integrating African cultural practices with the Islamic beliefs.
+Nigerian religious practices are divided on geographical and ethnic lines. The south-east region is mostly Christian, while the north is almost entirely Muslim. The Southwest have both Christians and Muslims in unison, but African traditional religions are practiced as well. Nigerians have freedom of religion according to their constitution; there is no requirement of separation of religion and state. Over half of the nation practices Islam, most of which are Sunni. The Sufi orders made Islamic faith even more popular by integrating African cultural practices with the Islamic beliefs.
 
 <div class="alert alert-warning" role="alert">
   <strong>Travel alert!</strong> The Department of State warns U.S. citizens of the risks of travel to Nigeria and recommends that U.S. citizens avoid all travel to Adamawa, Borno, and Yobe states because the security situation in northeast Nigeria remains fluid and unpredictable. Terrorist group Boko Haram has claimed responsibility for recent attacks. <br />
@@ -14,28 +14,24 @@ Nigerian religious practices are divided on geographical and ethnic lines. The s
 $("#religion_chart_container").hide();
 $("#religion_chart_container").fadeIn();
 var religion_chart = {};
-religion_chart.data = [
-    {
-        value: 50,
-        color:"#F7464A",
-        highlight: "#FF5A5E",
-        label: "Muslim"
-    },
-    {
-        value: 40,
-        color: "#46BFBD",
-        highlight: "#5AD3D1",
-        label: "Christian"
-    },
-    {
-        value: 10,
-        color: "#FDB45C",
-        highlight: "#FFC870",
-        label: "Indigenous Beliefs"
-    }
-];
+religion_chart.data = [{
+    value: 50,
+    color: "#F7464A",
+    highlight: "#FF5A5E",
+    label: "Muslim"
+}, {
+    value: 40,
+    color: "#46BFBD",
+    highlight: "#5AD3D1",
+    label: "Christian"
+}, {
+    value: 10,
+    color: "#FDB45C",
+    highlight: "#FFC870",
+    label: "Indigenous Beliefs"
+}];
 religion_chart.ctx = document.getElementById("religion_chart").getContext("2d");
-        religion_chart.pie = new Chart(religion_chart.ctx).Pie(religion_chart.data,{
+religion_chart.pie = new Chart(religion_chart.ctx).Pie(religion_chart.data, {
     animateScale: true,
     animateRotate: false
 });

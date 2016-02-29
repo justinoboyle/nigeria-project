@@ -1,6 +1,6 @@
 # Food
 
-Like much of Nigeria, culture, food in Nigeria is influenced by many different ethnic traditions, and ingredients and recipes vary by location.
+Like much of Nigerian culture, food in Nigeria is influenced by many different ethnic traditions, and ingredients and recipes vary by location.
 
 Throughout the country, people eat with their right hand; the left is kept for personal hygiene, so it is considered rude to pass food to anyone with the left hand. Nigerians traditionally eat a heavy meal in the morning and a light meal in the evening, though in cities three meals a day is becoming a more popular routine. Nigerians like to spend time visiting each other and socializing at cafes. **Nigerian cuisine is a matter of national pride.** There are many delicious recipes and foods.
 
