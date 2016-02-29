@@ -92,3 +92,8 @@ body {
     background: rgba(0, 0, 0, .8);
     color: white;
 }
+.home-title {
+  font-family: 'Lobster', cursive;
+  font-size: 5em;
+  text-align: center;
+}

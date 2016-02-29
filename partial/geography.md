@@ -4,7 +4,7 @@ Nigeria is mountainous in the southeast, while sothern lowlands merge into cetra
 
 Natural resources include:
 - Natural Gas
-- Petrolium
+- Petroleum
 - Tin
 - Iron ore
 - Coal
