@@ -1,0 +1,94 @@
+body {
+    padding-top: 70px;
+    -webkit-overflow-scrolling: touch;
+}
+html, body {
+  overflow-x: hidden;
+}
+markdown-raw {
+    visibility: hidden;
+}
+.comment {
+    display: none;
+}
+.caption {
+    color: #777;
+    font-style: oblique;
+}
+.background-image {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    display: block;
+    background-image: url('/static/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100;
+    height: 100%;
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+}
+.content {
+    position: fixed;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    height: 100%;
+    left: 0;
+    right: 0;
+    padding-bottom: 1cm;
+    z-index: 9998;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.content-container {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    height: 100%;
+}
+body {
+    font-family: Sans-Serif;
+}
+#fork {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+.legend {
+    width: 15em;
+    border: 1px solid black;
+}
+.legend .title {
+    display: block;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    line-height: 1.2em;
+    padding: 0 0.3em;
+}
+.legend .color-sample {
+    display: block;
+    float: left;
+    width: 1em;
+    height: 1em;
+    border: 2px solid;
+    border-radius: 0.5em;
+    margin-right: 0.5em;
+}
+.navbar {
+  background: rgb(54, 25, 25);
+  background: rgba(0, 0, 0, .8);
+  color: white;
+}
+.nav-link {
+  color: white;
+  cursor: pointer;
+}
+.container {
+    background: rgb(54, 25, 25);
+    background: rgba(0, 0, 0, .8);
+    color: white;
+}
