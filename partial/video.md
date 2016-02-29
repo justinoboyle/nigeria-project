@@ -1,0 +1,3 @@
+<script>window.location.href="https://www.youtube.com/watch?v=ZYr9HfNowi4"</script>
+<h1>Video</h1>
+Loading...
