@@ -9,7 +9,7 @@ There is a lot of lingual diversity in Nigeria. While English serves as official
 
 <hr />
 
-<img src="/static/language/map.jpg" onclick="window.open('/static/language/talking.jpg')" onclick="window.open('http://thisisafrica.me/wp-content/uploads/sites/4/2014/12/Pa-Jimi-Solanke-1.jpg')" style="width:50%;height=50%"></img>
+<img src="/static/language/talking.jpg" onclick="window.open('/static/language/talking.jpg')" onclick="window.open('http://thisisafrica.me/wp-content/uploads/sites/4/2014/12/Pa-Jimi-Solanke-1.jpg')" style="width:50%;height=50%"></img>
 <div class="caption">A Nigerian elder talks to students. <a href="http://thisisafrica.me/wp-content/uploads/sites/4/2014/12/Pa-Jimi-Solanke-1.jpg">Original Source</a></div>
 
 ## Citation
