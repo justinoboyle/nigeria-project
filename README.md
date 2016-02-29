@@ -1,3 +1,3 @@
-# [nigeria.justinoboyle.com](nigeria.justinoboyle.com)
+# [nigeria.justinoboyle.com](https://nigeria.justinoboyle.com)
 
 School project about Nigeria.
